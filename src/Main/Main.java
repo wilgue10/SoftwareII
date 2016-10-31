@@ -20,7 +20,7 @@ public class Main {
         Vehiculo vehiculo3 = new Vehiculo(2015,4,"black","TLM8964");
         Vehiculo vehiculo4 = new Vehiculo(2015,4,"grey","PRS9632");
         Vehiculo vehiculo5 = new Vehiculo(2015,4,"red","PMU5362");
-        
+        //modificacion
         System.out.println("Placa del vehiculo 1 es: "+vehiculo1.getPlaca());
         System.out.println("Placa del vehiculo 2 es: "+vehiculo2.getPlaca());
         System.out.println("Placa del vehiculo 3 es: "+vehiculo3.getPlaca());
